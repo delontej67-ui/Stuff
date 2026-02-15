@@ -1,10 +1,10 @@
 {
   "announcements": [
     {
-      "title": "test",
-      "text": "hi chat wsp",
-      "timestamp": "2026-02-15T12:30:00.000Z"
+      "title": "Notice",
+      "text": "There is some bugs happening with the Admin Panel, so I will fix it.",
+      "timestamp": "2026-02-16T05:28:00.000Z"
     }
   ],
-  "lastUpdate": "2026-02-15T12:30:00.000Z"
+  "lastUpdate": "2026-02-16T05:28:00.000Z"
 }
